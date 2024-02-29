@@ -3,3 +3,7 @@
 This repository is all about the data structures and algorithms 
 
 L0 indicates that all the problems included in this repo are at beginner level (Level 0).
+
+File naming convention : 
+P-LX-XX
+[Problem] - [Level] - [Problem Number]
