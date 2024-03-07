@@ -4,8 +4,6 @@ using namespace std;
 
 vector<int> getMoreAndLess(int arr[], int n, int x)
 {
-    int start = 0;
-    int end = n - 1;
 
     int lessNum = 0;
     int maxNum = 0;
